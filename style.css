@@ -1,0 +1,18 @@
+body {
+  background: url('https://images.unsplash.com/photo-1512820790803-83ca734da794') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero h1, .hero p {
+  text-shadow: 1px 1px 3px black;
+}
+
+.card {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+}
